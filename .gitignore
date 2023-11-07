@@ -25,6 +25,9 @@ GLFW.xcodeproj
 # macOS clutter
 .DS_Store
 
+/bin-int/
+/bin
+
 # Makefile generator clutter
 Makefile
 
